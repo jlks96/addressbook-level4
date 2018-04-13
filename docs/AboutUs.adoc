@@ -3,7 +3,7 @@
 :imagesDir: images
 :stylesDir: stylesheets
 
-AddSurance was developed by the https://se-edu.github.io/docs/Team.html[se-edu] team. +
+AddSurance was developed by the https://se-edu.github.io/docs/Team.html[se-edu] and https://github.com/CS2103JAN2018-W10-B4[W10-B4] team. +
 
 We are a team based in the http://www.comp.nus.edu.sg[School of Computing, National University of Singapore].
 
@@ -13,7 +13,8 @@ We are a team based in the http://www.comp.nus.edu.sg[School of Computing, Natio
 image::jlks96.jpg[width="150", align="left"]
 {empty}[https://github.com/jlks96[github]] [https://github.com/CS2103JAN2018-W10-B4/main/blob/master/docs/team/jlks96.adoc[portfolio]]
 
-Role: Team Lead + Deliverables & Deadlines + Scheduling + Code Quality + Documentation
+Role: Team Lead + Deliverables & Deadlines + Scheduling + Code Quality + Documentation + Integration
+
 Responsibilities: Logic + UI + Model + Storage + Commons
 
 '''
@@ -23,7 +24,8 @@ image::ng95junwei.jpg[width="150", align="left"]
 {empty}[http://github.com/ng95junwei[github]] [https://github.com/CS2103JAN2018-W10-B4/main/blob/master/docs/team/junwei.adoc[portfolio]]
 
 Role: Integration + Code Quality + Java expert
-Responsibilities: Logic + Model + Storage
+
+Responsibilities: Logic + Model
 
 '''
 
@@ -31,7 +33,8 @@ Responsibilities: Logic + Model + Storage
 image::luca590.jpg[width="150", align="left"]
 {empty}[http://github.com/luca590[github]] [https://github.com/CS2103JAN2018-W10-B4/main/blob/master/docs/team/luca590.adoc[portfolio]]
 
-Role: Testing + Integration + Documentation
+Role: Testing + Integration
+
 Responsibilities: Logic + Model
 
 '''
